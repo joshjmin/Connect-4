@@ -1,0 +1,86 @@
+------
+------
+------
+------
+------
+------
+Red, please enter a valid column number (0-5): ------
+------
+------
+------
+------
+-R----
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+------
+------
+-RY---
+Red, please enter a valid column number (0-5): ------
+------
+------
+------
+------
+-RYR--
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+------
+-Y----
+-RYR--
+Red, please enter a valid column number (0-5): ------
+------
+------
+------
+-YR---
+-RYR--
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+------
+-YRY--
+-RYR--
+Red, please enter a valid column number (0-5): ------
+------
+------
+------
+-YRY--
+-RYRR-
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+-Y----
+-YRY--
+-RYRR-
+Red, please enter a valid column number (0-5): ------
+------
+------
+-YR---
+-YRY--
+-RYRR-
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+-YR---
+-YRYY-
+-RYRR-
+Red, please enter a valid column number (0-5): ------
+------
+------
+-YRR--
+-YRYY-
+-RYRR-
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+-YRRY-
+-YRYY-
+-RYRR-
+Red, please enter a valid column number (0-5): Red wins!
+Final board: 
+------
+------
+----R-
+-YRRY-
+-YRYY-
+-RYRR-

@@ -1,0 +1,224 @@
+------
+------
+------
+------
+------
+------
+Red, please enter a valid column number (0-5): ------
+------
+------
+------
+------
+-R----
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+------
+------
+-RY---
+Red, please enter a valid column number (0-5): ------
+------
+------
+------
+------
+-RYR--
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+------
+-Y----
+-RYR--
+Red, please enter a valid column number (0-5): ------
+------
+------
+------
+-YR---
+-RYR--
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+------
+-YRY--
+-RYR--
+Red, please enter a valid column number (0-5): ------
+------
+------
+-R----
+-YRY--
+-RYR--
+Yellow, please enter a valid column number (0-5): ------
+------
+------
+-RY---
+-YRY--
+-RYR--
+Red, please enter a valid column number (0-5): ------
+------
+------
+-RYR--
+-YRY--
+-RYR--
+Yellow, please enter a valid column number (0-5): ------
+------
+-Y----
+-RYR--
+-YRY--
+-RYR--
+Red, please enter a valid column number (0-5): ------
+------
+-YR---
+-RYR--
+-YRY--
+-RYR--
+Yellow, please enter a valid column number (0-5): ------
+------
+-YRY--
+-RYR--
+-YRY--
+-RYR--
+Red, please enter a valid column number (0-5): ------
+-R----
+-YRY--
+-RYR--
+-YRY--
+-RYR--
+Yellow, please enter a valid column number (0-5): ------
+-RY---
+-YRY--
+-RYR--
+-YRY--
+-RYR--
+Red, please enter a valid column number (0-5): ------
+-RYR--
+-YRY--
+-RYR--
+-YRY--
+-RYR--
+Yellow, please enter a valid column number (0-5): -Y----
+-RYR--
+-YRY--
+-RYR--
+-YRY--
+-RYR--
+Red, please enter a valid column number (0-5): -YR---
+-RYR--
+-YRY--
+-RYR--
+-YRY--
+-RYR--
+Yellow, please enter a valid column number (0-5): -YRY--
+-RYR--
+-YRY--
+-RYR--
+-YRY--
+-RYR--
+Red, please enter a valid column number (0-5): -YRY--
+-RYR--
+-YRY--
+-RYR--
+-YRY--
+RRYR--
+Yellow, please enter a valid column number (0-5): -YRY--
+-RYR--
+-YRY--
+-RYR--
+YYRY--
+RRYR--
+Red, please enter a valid column number (0-5): -YRY--
+-RYR--
+-YRY--
+RRYR--
+YYRY--
+RRYR--
+Yellow, please enter a valid column number (0-5): -YRY--
+-RYR--
+YYRY--
+RRYR--
+YYRY--
+RRYR--
+Red, please enter a valid column number (0-5): -YRY--
+RRYR--
+YYRY--
+RRYR--
+YYRY--
+RRYR--
+Yellow, please enter a valid column number (0-5): YYRY--
+RRYR--
+YYRY--
+RRYR--
+YYRY--
+RRYR--
+Red, please enter a valid column number (0-5): YYRY--
+RRYR--
+YYRY--
+RRYR--
+YYRY--
+RRYRR-
+Yellow, please enter a valid column number (0-5): YYRY--
+RRYR--
+YYRY--
+RRYR--
+YYRYY-
+RRYRR-
+Red, please enter a valid column number (0-5): YYRY--
+RRYR--
+YYRY--
+RRYRR-
+YYRYY-
+RRYRR-
+Yellow, please enter a valid column number (0-5): YYRY--
+RRYR--
+YYRYY-
+RRYRR-
+YYRYY-
+RRYRR-
+Red, please enter a valid column number (0-5): YYRY--
+RRYRR-
+YYRYY-
+RRYRR-
+YYRYY-
+RRYRR-
+Yellow, please enter a valid column number (0-5): YYRYY-
+RRYRR-
+YYRYY-
+RRYRR-
+YYRYY-
+RRYRR-
+Red, please enter a valid column number (0-5): YYRYY-
+RRYRR-
+YYRYY-
+RRYRR-
+YYRYY-
+RRYRRR
+Yellow, please enter a valid column number (0-5): YYRYY-
+RRYRR-
+YYRYY-
+RRYRR-
+YYRYYY
+RRYRRR
+Red, please enter a valid column number (0-5): YYRYY-
+RRYRR-
+YYRYY-
+RRYRRR
+YYRYYY
+RRYRRR
+Yellow, please enter a valid column number (0-5): YYRYY-
+RRYRR-
+YYRYYY
+RRYRRR
+YYRYYY
+RRYRRR
+Red, please enter a valid column number (0-5): YYRYY-
+RRYRRR
+YYRYYY
+RRYRRR
+YYRYYY
+RRYRRR
+Yellow, please enter a valid column number (0-5): It's a tie
+Final board: 
+YYRYYY
+RRYRRR
+YYRYYY
+RRYRRR
+YYRYYY
+RRYRRR
